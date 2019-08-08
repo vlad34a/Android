@@ -18,19 +18,34 @@ import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
 
-    Thread Thread1 = null;
-    EditText etIP, etPort;
-    TextView tvMessages;
-    EditText etMessage;
-    Button btnSend;
-    String SERVER_IP = "192.168.100.8";
-    int SERVER_PORT = 12362;
-    List<Thread> threadPool;
+    private Thread Thread1 = null;
+    private EditText etIP, etPort;
+    private TextView tvMessages;
+    private EditText etMessage;
+    private Button btnSend;
+    private String SERVER_IP = "192.168.100.8";
+    private int SERVER_PORT = 12362;
+    private List<Thread> threadPool;
+    private TextView batteryTxt;
+
+    private BroadcastReceiver mBatteryInfo = new BroadcastReceiver(){
+
+        @Override
+        public void onReceive(Context context, Intent intent) {
+            int level = intent.getIntExtra(BatteryManager.EXTRA_LEVEL, 0);
+            batteryTxt.setText(String.valueOf(level) + "%");
+        }
+    };
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        batteryTxt = (TextView)this.findViewById(R.id.batteryTxt);
+        this.registerReceiver(this.mBatteryInfo, new IntentFilter(Intent.ACTION_BATTERY_CHANGED));
+
+
         etIP = findViewById(R.id.etIP);
         etPort = findViewById(R.id.etPort);
         tvMessages = findViewById(R.id.tvMessages);
@@ -58,6 +73,26 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
+
+    @Override
+    protected void onDestroy() {
+        this.unregisterReceiver(this.mBatteryInfo, new IntentFilter(Intent.ACTION_BATTERY_CHANGED));
+    }
+
+
+    private int getBatteryPercentage(Context context) {
+
+        IntentFilter iFilter = new IntentFilter(Intent.ACTION_BATTERY_CHANGED);
+        Intent batteryStatus = context.registerReceiver(null, iFilter);
+
+        int level = batteryStatus != null ? batteryStatus.getIntExtra(BatteryManager.EXTRA_LEVEL, -1) : -1;
+        int scale = batteryStatus != null ? batteryStatus.getIntExtra(BatteryManager.EXTRA_SCALE, -1) : -1;
+
+        float batteryPct = level / (float) scale;
+
+        return (int) (batteryPct * 100);
+    }
+
     private PrintWriter output;
     private BufferedReader input;
 
@@ -146,6 +181,8 @@ public class MainActivity extends AppCompatActivity {
                 i++;
             }
             Log.v("HERE", "" + factorial);
+
+
         }
     }
 }
