@@ -1,0 +1,246 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/aceapa/AndroidStudioProjects/NearbyConnections/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/aceapa/AndroidStudioProjects/NearbyConnections/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/aceapa/AndroidStudioProjects/NearbyConnections/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/aceapa/AndroidStudioProjects/NearbyConnections/app/src/main/AndroidManifest.xml:2:1-29:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/0eb1974679af618eeda12b9aaf0dd52b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/b76d6c67a36f035f4d5b37d43d949727/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-nearby:11.8.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/455b27d5e0eb9e5aa125e011f28632bd/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/3a838da3106c157f2651623c96f431a2/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/364cad038a025b03d8292a7afe765ffe/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/6bbbc2a25eed19d037f4b7574700b99b/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/3e5b306e1aa768bbc6b0cc8704151456/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/7e759973c412463eb2e7a782e249e51d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/d16a731af106284c548ef90fb318a84d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/0bb60af32786eed39e671967b6943fe0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/2548dafa097ee0e5409422cfbca7f6d0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/7c97b8ad632731b6801969c43a7382cc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/5443b524fa79a9a052decfd606a5c1ec/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/d59d392da5f01bceea7bc6e38099ff9a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/dba91d38d1e328c25299c16e727cbf60/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/aed474173c03e3479c266e1eda7d305f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/60cbc090aa95f8aebb5d1361b15e4bb5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/69eb8f1481c7ba9cf534cb2bd3ea592e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/f0d2abb0c4f0a2a811d19fa86eab96e4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/e57d555e2de2802629fec73f76947c28/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/54b8d9c5c29eeb93989cfd01d7263f06/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/945f6374e7250d5959480293dde736af/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/57b67f4d354934765972bca7a5a0712c/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/cba08319017c65e8e6613cabbbf597dc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/2ffd24b757e410c9b9f755ea5ced80f6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/def106c0d05f6614599fa7dd32cdb8c5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/e6d6274f77d6cf432a936cdc71045915/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/d5e7ae33259989a9192f9aea6349f2cb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/dda6fe1c9063843be50dc3b1a5fd0e4f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/e5e9efc003463aa2b219de5cff9cccb0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/7317b3a86e46d7b5f851a1d00197443b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/8c72a90e2bae1ad7fe7ced6104bc3df5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/d3fedd4fe4984fc4d9cd7be22b6e10b5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-nearby-license:11.8.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/3f0b3952c4df75d949a0afd1bdb810ef/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/c1a55e9caa9c7774f8d0e55b15f170a2/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/e1cc5263d442b4c100e01e01d067fd7b/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/00b5e16bd6227e7f80794248c87518b0/AndroidManifest.xml:2:1-6:12
+INJECTED from /Users/aceapa/AndroidStudioProjects/NearbyConnections/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/aceapa/AndroidStudioProjects/NearbyConnections/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/aceapa/AndroidStudioProjects/NearbyConnections/app/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /Users/aceapa/AndroidStudioProjects/NearbyConnections/app/src/main/AndroidManifest.xml:2:11-50
+		INJECTED from /Users/aceapa/AndroidStudioProjects/NearbyConnections/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/aceapa/AndroidStudioProjects/NearbyConnections/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/aceapa/AndroidStudioProjects/NearbyConnections/app/src/main/AndroidManifest.xml
+		ADDED from /Users/aceapa/AndroidStudioProjects/NearbyConnections/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /Users/aceapa/AndroidStudioProjects/NearbyConnections/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/aceapa/AndroidStudioProjects/NearbyConnections/app/src/main/AndroidManifest.xml
+		ADDED from /Users/aceapa/AndroidStudioProjects/NearbyConnections/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /Users/aceapa/AndroidStudioProjects/NearbyConnections/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/aceapa/AndroidStudioProjects/NearbyConnections/app/src/main/AndroidManifest.xml:3:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/aceapa/AndroidStudioProjects/NearbyConnections/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/aceapa/AndroidStudioProjects/NearbyConnections/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/aceapa/AndroidStudioProjects/NearbyConnections/app/src/main/AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from /Users/aceapa/AndroidStudioProjects/NearbyConnections/app/src/main/AndroidManifest.xml:6:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/aceapa/AndroidStudioProjects/NearbyConnections/app/src/main/AndroidManifest.xml:7:5-74
+	android:name
+		ADDED from /Users/aceapa/AndroidStudioProjects/NearbyConnections/app/src/main/AndroidManifest.xml:7:22-71
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/aceapa/AndroidStudioProjects/NearbyConnections/app/src/main/AndroidManifest.xml:8:5-76
+	android:name
+		ADDED from /Users/aceapa/AndroidStudioProjects/NearbyConnections/app/src/main/AndroidManifest.xml:8:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/aceapa/AndroidStudioProjects/NearbyConnections/app/src/main/AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from /Users/aceapa/AndroidStudioProjects/NearbyConnections/app/src/main/AndroidManifest.xml:9:22-73
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/aceapa/AndroidStudioProjects/NearbyConnections/app/src/main/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from /Users/aceapa/AndroidStudioProjects/NearbyConnections/app/src/main/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/aceapa/AndroidStudioProjects/NearbyConnections/app/src/main/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /Users/aceapa/AndroidStudioProjects/NearbyConnections/app/src/main/AndroidManifest.xml:11:22-76
+application
+ADDED from /Users/aceapa/AndroidStudioProjects/NearbyConnections/app/src/main/AndroidManifest.xml:13:5-28:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/b76d6c67a36f035f4d5b37d43d949727/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/b76d6c67a36f035f4d5b37d43d949727/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-nearby:11.8.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/455b27d5e0eb9e5aa125e011f28632bd/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-nearby:11.8.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/455b27d5e0eb9e5aa125e011f28632bd/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/3a838da3106c157f2651623c96f431a2/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/3a838da3106c157f2651623c96f431a2/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/364cad038a025b03d8292a7afe765ffe/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/364cad038a025b03d8292a7afe765ffe/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/6bbbc2a25eed19d037f4b7574700b99b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/6bbbc2a25eed19d037f4b7574700b99b/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.1] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/945f6374e7250d5959480293dde736af/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/945f6374e7250d5959480293dde736af/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/57b67f4d354934765972bca7a5a0712c/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/57b67f4d354934765972bca7a5a0712c/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-nearby-license:11.8.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/3f0b3952c4df75d949a0afd1bdb810ef/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-nearby-license:11.8.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/3f0b3952c4df75d949a0afd1bdb810ef/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/c1a55e9caa9c7774f8d0e55b15f170a2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/c1a55e9caa9c7774f8d0e55b15f170a2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/e1cc5263d442b4c100e01e01d067fd7b/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/e1cc5263d442b4c100e01e01d067fd7b/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/00b5e16bd6227e7f80794248c87518b0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/00b5e16bd6227e7f80794248c87518b0/AndroidManifest.xml:5:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/945f6374e7250d5959480293dde736af/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/aceapa/AndroidStudioProjects/NearbyConnections/app/src/main/AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from /Users/aceapa/AndroidStudioProjects/NearbyConnections/app/src/main/AndroidManifest.xml:16:9-41
+	android:roundIcon
+		ADDED from /Users/aceapa/AndroidStudioProjects/NearbyConnections/app/src/main/AndroidManifest.xml:17:9-54
+	android:icon
+		ADDED from /Users/aceapa/AndroidStudioProjects/NearbyConnections/app/src/main/AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from /Users/aceapa/AndroidStudioProjects/NearbyConnections/app/src/main/AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from /Users/aceapa/AndroidStudioProjects/NearbyConnections/app/src/main/AndroidManifest.xml:19:9-40
+activity#com.example.nearbyconnections.MainActivity
+ADDED from /Users/aceapa/AndroidStudioProjects/NearbyConnections/app/src/main/AndroidManifest.xml:21:9-27:20
+	android:name
+		ADDED from /Users/aceapa/AndroidStudioProjects/NearbyConnections/app/src/main/AndroidManifest.xml:21:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/aceapa/AndroidStudioProjects/NearbyConnections/app/src/main/AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from /Users/aceapa/AndroidStudioProjects/NearbyConnections/app/src/main/AndroidManifest.xml:23:17-68
+	android:name
+		ADDED from /Users/aceapa/AndroidStudioProjects/NearbyConnections/app/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/aceapa/AndroidStudioProjects/NearbyConnections/app/src/main/AndroidManifest.xml:25:17-76
+	android:name
+		ADDED from /Users/aceapa/AndroidStudioProjects/NearbyConnections/app/src/main/AndroidManifest.xml:25:27-74
+uses-sdk
+INJECTED from /Users/aceapa/AndroidStudioProjects/NearbyConnections/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/aceapa/AndroidStudioProjects/NearbyConnections/app/src/main/AndroidManifest.xml
+INJECTED from /Users/aceapa/AndroidStudioProjects/NearbyConnections/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/0eb1974679af618eeda12b9aaf0dd52b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/0eb1974679af618eeda12b9aaf0dd52b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/b76d6c67a36f035f4d5b37d43d949727/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/b76d6c67a36f035f4d5b37d43d949727/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-nearby:11.8.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/455b27d5e0eb9e5aa125e011f28632bd/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-nearby:11.8.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/455b27d5e0eb9e5aa125e011f28632bd/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/3a838da3106c157f2651623c96f431a2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/3a838da3106c157f2651623c96f431a2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/364cad038a025b03d8292a7afe765ffe/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/364cad038a025b03d8292a7afe765ffe/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/6bbbc2a25eed19d037f4b7574700b99b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/6bbbc2a25eed19d037f4b7574700b99b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/3e5b306e1aa768bbc6b0cc8704151456/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/3e5b306e1aa768bbc6b0cc8704151456/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/7e759973c412463eb2e7a782e249e51d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/7e759973c412463eb2e7a782e249e51d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/d16a731af106284c548ef90fb318a84d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/d16a731af106284c548ef90fb318a84d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/0bb60af32786eed39e671967b6943fe0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/0bb60af32786eed39e671967b6943fe0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/2548dafa097ee0e5409422cfbca7f6d0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/2548dafa097ee0e5409422cfbca7f6d0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/7c97b8ad632731b6801969c43a7382cc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/7c97b8ad632731b6801969c43a7382cc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/5443b524fa79a9a052decfd606a5c1ec/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/5443b524fa79a9a052decfd606a5c1ec/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/d59d392da5f01bceea7bc6e38099ff9a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/d59d392da5f01bceea7bc6e38099ff9a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/dba91d38d1e328c25299c16e727cbf60/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/dba91d38d1e328c25299c16e727cbf60/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/aed474173c03e3479c266e1eda7d305f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/aed474173c03e3479c266e1eda7d305f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/60cbc090aa95f8aebb5d1361b15e4bb5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/60cbc090aa95f8aebb5d1361b15e4bb5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/69eb8f1481c7ba9cf534cb2bd3ea592e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/69eb8f1481c7ba9cf534cb2bd3ea592e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/f0d2abb0c4f0a2a811d19fa86eab96e4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/f0d2abb0c4f0a2a811d19fa86eab96e4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/e57d555e2de2802629fec73f76947c28/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/e57d555e2de2802629fec73f76947c28/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/54b8d9c5c29eeb93989cfd01d7263f06/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/54b8d9c5c29eeb93989cfd01d7263f06/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/945f6374e7250d5959480293dde736af/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/945f6374e7250d5959480293dde736af/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/57b67f4d354934765972bca7a5a0712c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/57b67f4d354934765972bca7a5a0712c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/cba08319017c65e8e6613cabbbf597dc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/cba08319017c65e8e6613cabbbf597dc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/2ffd24b757e410c9b9f755ea5ced80f6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/2ffd24b757e410c9b9f755ea5ced80f6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/def106c0d05f6614599fa7dd32cdb8c5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/def106c0d05f6614599fa7dd32cdb8c5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/e6d6274f77d6cf432a936cdc71045915/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/e6d6274f77d6cf432a936cdc71045915/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/d5e7ae33259989a9192f9aea6349f2cb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/d5e7ae33259989a9192f9aea6349f2cb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/dda6fe1c9063843be50dc3b1a5fd0e4f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/dda6fe1c9063843be50dc3b1a5fd0e4f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/e5e9efc003463aa2b219de5cff9cccb0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/e5e9efc003463aa2b219de5cff9cccb0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/7317b3a86e46d7b5f851a1d00197443b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/7317b3a86e46d7b5f851a1d00197443b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/8c72a90e2bae1ad7fe7ced6104bc3df5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/8c72a90e2bae1ad7fe7ced6104bc3df5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/d3fedd4fe4984fc4d9cd7be22b6e10b5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/d3fedd4fe4984fc4d9cd7be22b6e10b5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-nearby-license:11.8.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/3f0b3952c4df75d949a0afd1bdb810ef/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-nearby-license:11.8.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/3f0b3952c4df75d949a0afd1bdb810ef/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/c1a55e9caa9c7774f8d0e55b15f170a2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/c1a55e9caa9c7774f8d0e55b15f170a2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/e1cc5263d442b4c100e01e01d067fd7b/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/e1cc5263d442b4c100e01e01d067fd7b/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/00b5e16bd6227e7f80794248c87518b0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/00b5e16bd6227e7f80794248c87518b0/AndroidManifest.xml:4:5-43
+INJECTED from /Users/aceapa/AndroidStudioProjects/NearbyConnections/app/src/main/AndroidManifest.xml
+INJECTED from /Users/aceapa/AndroidStudioProjects/NearbyConnections/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/aceapa/AndroidStudioProjects/NearbyConnections/app/src/main/AndroidManifest.xml
+		ADDED from /Users/aceapa/AndroidStudioProjects/NearbyConnections/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/aceapa/AndroidStudioProjects/NearbyConnections/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/aceapa/AndroidStudioProjects/NearbyConnections/app/src/main/AndroidManifest.xml
+		ADDED from /Users/aceapa/AndroidStudioProjects/NearbyConnections/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/aceapa/AndroidStudioProjects/NearbyConnections/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-nearby:11.8.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/455b27d5e0eb9e5aa125e011f28632bd/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-nearby:11.8.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/455b27d5e0eb9e5aa125e011f28632bd/AndroidManifest.xml:7:22-76
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/3a838da3106c157f2651623c96f431a2/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/3a838da3106c157f2651623c96f431a2/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/3a838da3106c157f2651623c96f431a2/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/3a838da3106c157f2651623c96f431a2/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.8.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/6bbbc2a25eed19d037f4b7574700b99b/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/6bbbc2a25eed19d037f4b7574700b99b/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] /Users/aceapa/.gradle/caches/transforms-2/files-2.1/6bbbc2a25eed19d037f4b7574700b99b/AndroidManifest.xml:24:13-58
